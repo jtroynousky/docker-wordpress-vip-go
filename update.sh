@@ -9,7 +9,7 @@ mkdir -p src
 # Clone git repos.
 for repo in \
   Automattic/vip-go-mu-plugins \
-  Automattic/vip-go-skeleton \
+  wpcomvip/metro \
   tollmanz/wordpress-pecl-memcached-object-cache
 do
   # Clone repo if it is not in the "src" subfolder.
